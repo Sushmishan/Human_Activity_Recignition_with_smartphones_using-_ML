@@ -1,0 +1,1 @@
+# Human_Activity_Recignition_with_smartphones_using-_ML
